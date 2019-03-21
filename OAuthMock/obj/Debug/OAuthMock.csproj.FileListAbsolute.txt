@@ -1,0 +1,7 @@
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\obj\Debug\OAuthMock.csprojAssemblyReference.cache
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\obj\Debug\OAuthMock.csproj.CoreCompileInputs.cache
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\bin\Debug\OAuthMock.exe.config
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\bin\Debug\OAuthMock.exe
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\bin\Debug\OAuthMock.pdb
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\obj\Debug\OAuthMock.exe
+C:\Users\kshaffer\Documents\Visual Studio 2017\Projects\OAuthMock\OAuthMock\obj\Debug\OAuthMock.pdb
